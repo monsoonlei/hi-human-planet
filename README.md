@@ -14,3 +14,4 @@ odering.
 
 I'm learning Python.
 Studying communication science.
+Wondering why this went straight to commit before I had a chance to compare
